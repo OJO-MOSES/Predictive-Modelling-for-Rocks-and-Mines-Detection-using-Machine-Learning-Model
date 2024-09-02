@@ -1,0 +1,1 @@
+# Predictive-Modelling-for-Rocks-and-Mines-Detection-using-Machine-Learning-Model
